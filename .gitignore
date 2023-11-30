@@ -1,3 +1,4 @@
 emotion_model/
 model.tflite
 emotion_model.zip
+__pycache__/
