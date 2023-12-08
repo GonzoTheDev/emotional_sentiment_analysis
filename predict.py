@@ -51,7 +51,7 @@ parser.add_argument("--text", type=str, help="Input text for emotion prediction"
 args = parser.parse_args()
 
 # Get the input text from the command line
-input_text = args.text if args.text else "I love you so much"
+input_text = args.text if args.text else "No input text provided"
 
 
 # Make prediction
